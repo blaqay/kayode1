@@ -1,0 +1,35 @@
+header h1 a {
+    display: block;
+    -webkit-transition: 0s ease;
+    transition: 0s ease;
+    color: #c3d8d1;
+    font-size: 50px;
+    padding-bottom: 2px;
+}
+
+.navigation {
+    background-color: #000;
+    background-color: rgba(0, 0, 0, 0.42);
+    position: fixed;
+    z-index: 900;
+    top: 0;
+    left: 0;
+    padding: 57px 0 66px;
+    right: 0;
+    text-align: center;
+}
+
+.block-1 time span {
+    display: inline-block;
+    margin-left: 115px;
+}
+
+#experience {
+    padding-bottom: 45;
+}
+
+.container_12 .grid_6 {
+    width: 570px;
+    margin-left: 320px;
+    text-align: center;
+}
